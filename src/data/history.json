@@ -1,0 +1,33 @@
+[
+  {
+    "role": "Student Ambassador",
+    "organisation": "Adobe",
+    "startDate": "April, 2024",
+    "endDate": "Present",
+    "experiences": ["Promote Adobe through content creation and advertising through personal social media channels, driving students’ awareness and interest, leading to increased activations of free Adobe Creative Cloud at San Jose State University and grow brand awareness"],
+    "imageSrc": "history/adobe.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "webstertech",
+    "startDate": "Jan, 2019",
+    "endDate": "July2021",
+    "experiences": ["Designed and developed E-commerce and content management websites for the company",
+  "Incorporated capabilities of adding products to cart, similar products suggestions, most purchased products and completing order online by executing payment through payment gateway",
+"Managed and updated timely contents on company’s profile website with ReactJS, NodeJS and MySQL"],
+    "imageSrc": "history/webstertech.png"
+  },
+ 
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Digitattva Technolabs",
+    "startDate": "Jun, 2020",
+    "endDate": "Sep, 2021",
+    "experiences": [
+      "Worked in different areas such as implementing UI design in React, JavaScript, CSS, SQL, HTML5",
+      "Improved existing codebase and heightened browser compatibility by an impressive 30 percent",
+      "Demonstrated proficiency in version control systems such as Git, actively managing code repositories and contributing to collaborative development workflows"
+    ],
+    "imageSrc": "history/Digitattav Technolabs.png"
+  }
+]

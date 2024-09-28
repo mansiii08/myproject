@@ -1,0 +1,26 @@
+[
+    {
+      "title": "StackOverflow-Clone",
+      "imageSrc": "projects/stackoverflow.png",
+      "description": "Web application where programmers and developers can ask quetions, share knowledge, and find solutions to coding and software development problems.",
+      "skills": ["MERN Stack", "MySQL", "Redis", "Kafka"],
+      "demo": "https://www.example.com",
+     "source": "https://www.github.com"
+    },
+    {
+      "title": "Etsy Simulation",
+      "imageSrc": "projects/etsy.png",
+      "description": "Web application that allows artisans and small businesses to showcase and sell unique handmade products, vintage items, and craft supplies while providing a seamless shopping experience for users.",
+      "skills": ["React", "MERN", "Node"],
+     "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "WasteDeal",
+      "imageSrc": "projects/project.png",
+      "description": "WasteDeal is a platform that connects users with waste management and recycling services to promote sustainable waste disposal and recycling practices.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
