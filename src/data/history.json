@@ -14,11 +14,17 @@
     "organisation": "webstertech",
     "startDate": "Jan 2019",
     "endDate": "July 2021",
+<<<<<<< HEAD
     "experiences": [
       "Designed and developed E-commerce and content management websites for the company",
       "Incorporated capabilities of adding products to cart, similar products suggestions, most purchased products and completing order online by executing payment through payment gateway",
       "Managed and updated timely contents on company’s profile website with ReactJS, NodeJS and MySQL"
     ],
+=======
+    "experiences": ["Designed and developed E-commerce and content management websites for the company",
+  "Incorporated capabilities of adding products to cart, similar products suggestions, most purchased products and completing order online by executing payment through payment gateway",
+"Managed and updated timely contents on company’s profile website with ReactJS, NodeJS and MySQL"],
+>>>>>>> ff3e068 (Update history.json)
     "imageSrc": "history/webstertech.png"
   },
   {
