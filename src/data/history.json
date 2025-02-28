@@ -1,0 +1,49 @@
+[
+  {
+    "role": "Student Ambassador",
+    "organisation": "Adobe",
+    "startDate": "April 2024",
+    "endDate": "December 2024",
+    "experiences": [
+      "Promote Adobe through content creation and advertising through personal social media channels, driving students’ awareness and interest, leading to increased activations of free Adobe Creative Cloud at San Jose State University and grow brand awareness."
+    ],
+    "imageSrc": "history/adobe.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "webstertech",
+    "startDate": "Jan 2021",
+    "endDate": "Dec 2021",
+    "experiences": [
+      "Formulated comprehensive customer interfaces to streamline operations, and enhance user engagement.",
+      "Automated 100% of inventory, order processing, product categorization, and promotions through the development of UI components and backend functions, reducing manual tasks from 40 hours per week to just 5 minutes.",
+      "Generated data-driven insights, and reporting tools, analyzing customer purchasing patterns, and inventory performance, driving a 25% increase in sales through targeted promotions, and personalized recommendations.",
+      "Devised efficient email and SMS marketing campaigns triggered by user behavior, leading to a 15% boost in repeat purchases, and improved customer retention.",
+      "Strengthened payment processing, and order fulfillment workflows, integrating third-party APIs to ensure a seamless checkout experience, and reduce cart abandonment by 20%."
+    ],
+    "imageSrc": "history/webstertech.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "webstertech",
+    "startDate": "Jan 2020",
+    "endDate": "Dec 2020",
+    "experiences": [
+      "Designed an e-commerce site with dynamic product info, interactive comments, and a simplified checkout.",
+      "Performed unit testing using JUnit to increase code coverage by 20%."
+    ],
+     "imageSrc": "history/webstertech.pngng"
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Digitattva Technolabs",
+    "startDate": "May 2019",
+    "endDate": "Aug 2019",
+    "experiences": [
+      "Worked on a React Native app, boosting user adoption by 15%, and appointment conversions by 18%.",
+      "Engineered a role-based backend in Node.js, boosting scheduling by 20%, and cutting API response time by 30%.",
+      "Implemented CI/CD pipelines, ensuring automated and efficient code deployment."
+    ],
+    "imageSrc": "history/Digitattva Technolabs.png"
+  }
+]

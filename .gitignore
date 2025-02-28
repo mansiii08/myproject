@@ -1,0 +1,13 @@
+git nade_modules/
+
+*.log
+
+.env
+
+.vscode/
+.idea/
+
+
+build/
+dist/
+node_modules

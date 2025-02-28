@@ -1,0 +1,26 @@
+[
+    {
+      "title": "StackOverflow-Clone",
+      "imageSrc": "projects/stackoverflow.png",
+      "description": "Web application where programmers and developers can ask quetions, share knowledge, and find solutions to coding and software development problems.",
+      "skills": ["ReactJS", "NodeJS", "AWS", "MySQL", "Redis", "Kafka"],
+      "demo": "https://www.example.com",
+     "source": "https://www.github.com"
+    },
+    {
+      "title": "Etsy Simulation",
+      "imageSrc": "projects/etsy.png",
+      "description": "Web application that allows artisans and small businesses to showcase and sell unique handmade products, vintage items, and craft supplies while providing a seamless shopping experience for users.",
+      "skills": ["React", "MERN", "Node"],
+     "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "UberEats-Clone",
+      "imageSrc": "projects/project.png",
+      "description": "It is a clone of Uber Eats, a well-known food delivery service that links users with numerous restaurants, enabling them to order meals and have them conveniently delivered to their homes.",
+      "skills": ["ReactJS", "Express", "NodeJS", "Redux", "AWS", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
